@@ -11,7 +11,7 @@ particlesJS.load('particles-js', 'particles.json', function () {
     const blessing = document.getElementById('blessing');
   
     // Change diya image to lit state
-    diya.style.backgroundImage = "url('assets/diya-on.png')";
+    diya.style.backgroundImage = "url('diya-on.png')";
   
     // Show blessing message
     blessing.style.display = 'block';
