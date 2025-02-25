@@ -10,7 +10,7 @@ body {
 /* Parallax Header */
 .parallax-header {
     height: 100vh;
-    background: url('assets/shiva-background.png') no-repeat center center/cover;
+    background: url('shiva-background.png') no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -67,7 +67,7 @@ body {
 .diya {
     width: 100px;
     height: 100px;
-    background: url('assets/diya-off.png') no-repeat center center/cover;
+    background: url('diya-off.png') no-repeat center center/cover;
     margin: 0 auto;
     cursor: pointer;
     transition: transform 0.3s ease;
